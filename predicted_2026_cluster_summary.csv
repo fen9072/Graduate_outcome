@@ -1,4 +1,4 @@
-cluster,outcome_profile_2026,programmes,mean_gross_median_salary,mean_employment_rate
-0,"Moderate salary, higher employment profile",78,4533.46,82.58
-1,"Higher salary, higher employment profile",33,5385.6,85.42
-2,"Moderate salary, lower employment profile",37,4300.91,64.91
+﻿cluster,outcome_profile,programmes,mean_predicted_2026_salary,mean_predicted_2026_employment_rate
+0,"Moderate salary, lower employment profile",34,4346.87,68.23
+1,"Higher salary, higher employment profile",42,5187.79,85.04
+2,"Moderate salary, higher employment profile",72,4180.5,84.98
