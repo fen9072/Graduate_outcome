@@ -1,3 +1,0 @@
-Outcome,Unit,Training Input Years,Test Input Year,Predicted Outcome Year,Test Records,MAE,RMSE,R²
-Next-year gross monthly median salary,Singapore dollars,2013–2023,2024,2025,50,203.61751758760497,294.44805799015796,0.806521463696676
-Next-year full-time permanent employment rate,percentage points,2013–2023,2024,2025,51,8.850452842506382,11.478949603467157,0.476986946345626
